@@ -1,0 +1,16 @@
+# Hasil build
+build/
+dist/
+out/
+*.class
+
+# Konfigurasi lokal NetBeans
+nbproject/private/
+
+# Data hasil jalankan aplikasi
+data/export/
+data/backup/
+
+# File sistem / editor
+.DS_Store
+Thumbs.db
